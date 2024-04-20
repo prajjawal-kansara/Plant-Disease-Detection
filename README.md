@@ -33,7 +33,7 @@ early detection and prevention measures to be taken by farmers.
 
 <h3> Clone the repository: </h3>
 
-git clone https://github.com/yourusername/plant-disease-detection.git
+git clone https://github.com/prajjawal-kansara/Plant-Disease-Detection.git
 
 <h3> Navigate to the project directory: </h3>
 
