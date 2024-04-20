@@ -28,3 +28,17 @@ early detection and prevention measures to be taken by farmers.
 - Streamlit
 
 - Required Python packages (specified in requirements.txt)
+
+<h2> Installation Steps: </h2>
+
+<h3> Clone the repository: </h3>
+
+git clone https://github.com/yourusername/plant-disease-detection.git
+
+<h3> Navigate to the project directory: </h3>
+
+cd plant-disease-detection
+
+<h3> Install dependencies: </h3>
+
+pip install -r requirements.txt
