@@ -1,7 +1,8 @@
 # Plant-Disease-Prediction-CNN-Deep-Leanring-Project- 
 
 
-##Overview:
+<h2>Overview:</h2>
+
 This project implements a Convolutional Neural Network (CNN) model for plant disease detection using machine learning and computer vision techniques. 
 The model is trained to classify images of plant leaves into different disease categories, enabling users to diagnose plant diseases quickly 
 and accurately by uploading pictures through a web interface.
